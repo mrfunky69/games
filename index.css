@@ -140,7 +140,7 @@ header h3{
   @media screen and (max-width: 600px){
     header{
         font-size: 18px;
-        margin-top: 1680%;
+        margin-top: 140%;
         margin-bottom: 20%;
     }
   }
